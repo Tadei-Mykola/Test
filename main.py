@@ -1,4 +1,5 @@
 a = 1
 b = 2
-c = 9
-print(a+b+c)
+i = 12
+c = 999
+print(a+b+i)
